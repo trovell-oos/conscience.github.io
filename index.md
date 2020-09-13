@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Conscience's homepage!
+
+Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/trovell-oos/conscience.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
